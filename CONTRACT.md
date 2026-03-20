@@ -64,7 +64,7 @@ Genom att skriva under/bekräfta godkänner vi att arbeta enligt detta kontrakt.
 
 * **Medlem 1:** David Hermansson
 * **Medlem 2:** Sergio Follyvi
-* **Medlem 3:** [Namn]
+* **Medlem 3:** Ola Ersson
 * **Medlem 4:** [Namn]
 
 ---
