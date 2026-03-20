@@ -63,7 +63,7 @@ Vi lovar att vara professionella och schyssta mot varandra:
 Genom att skriva under/bekräfta godkänner vi att arbeta enligt detta kontrakt.
 
 * **Medlem 1:** David Hermansson
-* **Medlem 2:** [Namn]
+* **Medlem 2:** Sergio Follyvi
 * **Medlem 3:** [Namn]
 * **Medlem 4:** [Namn]
 
